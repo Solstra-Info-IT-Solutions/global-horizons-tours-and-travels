@@ -17,11 +17,13 @@ export default function Footer() {
           {/* About */}
           <div>
             {/* Logo */}
-            <div className="mb-5 flex h-7 w-8 items-center justify-center border border-[#d3dfe2]">
-              <span className="text-xs font-bold text-[#d3dfe2]">
-                GW
-              </span>
-            </div>
+            <div className="flex h-9 w-9 items-center justify-center border border-gray-200">
+            <img
+              src="/logo.png"
+              alt="Global Tours & Travels"
+              className="h-full w-full object-cover"
+            />
+          </div>
 
             <p className="max-w-[245px] text-[15px] leading-[23px] tracking-[0.3px]">
               Crafting heritage travel
