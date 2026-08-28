@@ -21,24 +21,7 @@
     "afterFiles": [],
     "fallback": []
   },
-  "dynamicRoutes": [
-    {
-      "page": "/destinations/[slug]",
-      "regex": "^/destinations/([^/]+?)(?:/)?$",
-      "routeKeys": {
-        "nxtPslug": "nxtPslug"
-      },
-      "namedRegex": "^/destinations/(?<nxtPslug>[^/]+?)(?:/)?$"
-    },
-    {
-      "page": "/tours/[slug]",
-      "regex": "^/tours/([^/]+?)(?:/)?$",
-      "routeKeys": {
-        "nxtPslug": "nxtPslug"
-      },
-      "namedRegex": "^/tours/(?<nxtPslug>[^/]+?)(?:/)?$"
-    }
-  ],
+  "dynamicRoutes": [],
   "staticRoutes": [
     {
       "page": "/",
@@ -65,100 +48,16 @@
       "namedRegex": "^/about(?:/)?$"
     },
     {
-      "page": "/airport-transfers",
-      "regex": "^/airport\\-transfers(?:/)?$",
-      "routeKeys": {},
-      "namedRegex": "^/airport\\-transfers(?:/)?$"
-    },
-    {
-      "page": "/api/enquiry",
-      "regex": "^/api/enquiry(?:/)?$",
-      "routeKeys": {},
-      "namedRegex": "^/api/enquiry(?:/)?$"
-    },
-    {
-      "page": "/cancellation-policy",
-      "regex": "^/cancellation\\-policy(?:/)?$",
-      "routeKeys": {},
-      "namedRegex": "^/cancellation\\-policy(?:/)?$"
-    },
-    {
-      "page": "/contact",
-      "regex": "^/contact(?:/)?$",
-      "routeKeys": {},
-      "namedRegex": "^/contact(?:/)?$"
-    },
-    {
-      "page": "/corporate-travel",
-      "regex": "^/corporate\\-travel(?:/)?$",
-      "routeKeys": {},
-      "namedRegex": "^/corporate\\-travel(?:/)?$"
-    },
-    {
-      "page": "/customized-trips",
-      "regex": "^/customized\\-trips(?:/)?$",
-      "routeKeys": {},
-      "namedRegex": "^/customized\\-trips(?:/)?$"
-    },
-    {
       "page": "/destinations",
       "regex": "^/destinations(?:/)?$",
       "routeKeys": {},
       "namedRegex": "^/destinations(?:/)?$"
     },
     {
-      "page": "/enquiry",
-      "regex": "^/enquiry(?:/)?$",
-      "routeKeys": {},
-      "namedRegex": "^/enquiry(?:/)?$"
-    },
-    {
       "page": "/favicon.ico",
       "regex": "^/favicon\\.ico(?:/)?$",
       "routeKeys": {},
       "namedRegex": "^/favicon\\.ico(?:/)?$"
-    },
-    {
-      "page": "/foreign-travelers",
-      "regex": "^/foreign\\-travelers(?:/)?$",
-      "routeKeys": {},
-      "namedRegex": "^/foreign\\-travelers(?:/)?$"
-    },
-    {
-      "page": "/privacy-policy",
-      "regex": "^/privacy\\-policy(?:/)?$",
-      "routeKeys": {},
-      "namedRegex": "^/privacy\\-policy(?:/)?$"
-    },
-    {
-      "page": "/robots.txt",
-      "regex": "^/robots\\.txt(?:/)?$",
-      "routeKeys": {},
-      "namedRegex": "^/robots\\.txt(?:/)?$"
-    },
-    {
-      "page": "/sitemap.xml",
-      "regex": "^/sitemap\\.xml(?:/)?$",
-      "routeKeys": {},
-      "namedRegex": "^/sitemap\\.xml(?:/)?$"
-    },
-    {
-      "page": "/terms",
-      "regex": "^/terms(?:/)?$",
-      "routeKeys": {},
-      "namedRegex": "^/terms(?:/)?$"
-    },
-    {
-      "page": "/tours",
-      "regex": "^/tours(?:/)?$",
-      "routeKeys": {},
-      "namedRegex": "^/tours(?:/)?$"
-    },
-    {
-      "page": "/transportation",
-      "regex": "^/transportation(?:/)?$",
-      "routeKeys": {},
-      "namedRegex": "^/transportation(?:/)?$"
     }
   ],
   "dataRoutes": [],
