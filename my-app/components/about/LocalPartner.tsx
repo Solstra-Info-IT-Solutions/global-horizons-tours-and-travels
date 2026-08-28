@@ -19,7 +19,7 @@ export default function LocalPartner() {
           <div className="h-[300px] md:h-auto">
 
             <img
-              src="/images/local-partner.jpg"
+              src="/image Side.png"
               alt="Local travel partner"
               className="h-full w-full object-cover"
             />

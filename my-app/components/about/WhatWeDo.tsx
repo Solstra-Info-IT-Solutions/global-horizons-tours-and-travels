@@ -29,7 +29,7 @@ export default function WhatWeDo() {
           <div className="relative min-h-[180px] overflow-hidden rounded-[4px] md:col-span-2">
 
             <img
-              src="/images/private-transport.jpg"
+              src="/whatwedo1.png"
               alt="Private transportation"
               className="absolute inset-0 h-full w-full object-cover"
             />
@@ -97,7 +97,7 @@ export default function WhatWeDo() {
           <div className="relative min-h-[170px] overflow-hidden rounded-[4px] md:col-span-2">
 
             <img
-              src="/images/meeting-events.jpg"
+              src="/whatwedo.png"
               alt="Meeting and events"
               className="absolute inset-0 h-full w-full object-cover"
             />

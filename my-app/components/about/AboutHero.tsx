@@ -3,7 +3,7 @@ export default function AboutHero() {
     <section className="relative h-[300px] overflow-hidden md:h-[360px]">
 
       <img
-        src="/images/about-hero.jpg"
+        src="abouthero.jpg"
         alt="Travel experience"
         className="absolute inset-0 h-full w-full object-cover"
       />

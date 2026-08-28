@@ -86,7 +86,7 @@ export default function OurStory() {
           <div className="rounded-[5px] bg-[#f1eee7] p-3">
 
             <img
-              src="/images/story.jpg"
+              src="/image.png"
               alt="Travel experience"
               className="h-[430px] w-full rounded-[4px] object-cover"
             />
