@@ -64,14 +64,7 @@ self.__SERVER_FILES_MANIFEST={
           "search": ""
         }
       ],
-      "remotePatterns": [
-        {
-          "protocol": "https",
-          "hostname": "images.unsplash.com",
-          "port": "",
-          "pathname": "/**"
-        }
-      ],
+      "remotePatterns": [],
       "qualities": [
         75
       ],
@@ -327,6 +320,7 @@ self.__SERVER_FILES_MANIFEST={
     "htmlLimitedBots": "[\\w-]+-Google|Google-[\\w-]+|Chrome-Lighthouse|Slurp|DuckDuckBot|baiduspider|yandex|sogou|bitlybot|tumblr|vkShare|quora link preview|redditbot|ia_archiver|Bingbot|BingPreview|applebot|facebookexternalhit|facebookcatalog|Twitterbot|LinkedInBot|Slackbot|Discordbot|WhatsApp|SkypeUriPreview|Yeti|googleweblight",
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.ts",
+    "reactCompiler": true,
     "repoRoot": "/Users/mohdebrahim/Desktop/NextProject/global-horizons-tours",
     "turbopack": {
       "root": "/Users/mohdebrahim/Desktop/NextProject/global-horizons-tours"

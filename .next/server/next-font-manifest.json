@@ -8,63 +8,11 @@
       "static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2",
       "static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2"
     ],
-    "[project]/app/airport-transfers/page": [
-      "static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2",
-      "static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2"
-    ],
-    "[project]/app/cancellation-policy/page": [
-      "static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2",
-      "static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2"
-    ],
-    "[project]/app/contact/page": [
-      "static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2",
-      "static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2"
-    ],
-    "[project]/app/corporate-travel/page": [
-      "static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2",
-      "static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2"
-    ],
-    "[project]/app/customized-trips/page": [
-      "static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2",
-      "static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2"
-    ],
-    "[project]/app/destinations/[slug]/page": [
-      "static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2",
-      "static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2"
-    ],
     "[project]/app/destinations/page": [
       "static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2",
       "static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2"
     ],
-    "[project]/app/enquiry/page": [
-      "static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2",
-      "static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2"
-    ],
-    "[project]/app/foreign-travelers/page": [
-      "static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2",
-      "static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2"
-    ],
     "[project]/app/page": [
-      "static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2",
-      "static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2"
-    ],
-    "[project]/app/privacy-policy/page": [
-      "static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2",
-      "static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2"
-    ],
-    "[project]/app/terms/page": [
-      "static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2",
-      "static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2"
-    ],
-    "[project]/app/tours/[slug]/page": [
-      "static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2",
-      "static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2"
-    ],
-    "[project]/app/tours/page": [
-      "static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2",
-      "static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2"
-    ],
-    "[project]/app/transportation/page": [
       "static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2",
       "static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2"
     ]
