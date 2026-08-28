@@ -1,0 +1,26 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/2iga5jtw_qx1d.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+7:I[97367,["/_next/static/chunks/2iga5jtw_qx1d.js"],"ViewportBoundary"]
+8:I[97367,["/_next/static/chunks/2iga5jtw_qx1d.js"],"MetadataBoundary"]
+6:X
+11:X
+11:C
+0:{"buildId":"BxyE9KRXMr5cdZBTZ-5eB","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"bg-[#faf8f5] py-16 sm:py-24","children":["$","div",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 space-y-6 bg-white p-8 sm:p-12 rounded-3xl border border-slate-200 shadow-lg text-slate-800","children":[["$","h1",null,{"className":"font-serif text-3xl sm:text-4xl font-bold text-[#0b132b]","children":"Privacy Policy"}],["$","div",null,{"className":"w-16 h-1 bg-[#d4af37] rounded-full"}],["$","p",null,{"className":"text-sm leading-relaxed","children":["At ",["$","strong",null,{"children":"Global Horizons Tours & Travels"}],", we respect your privacy and are committed to protecting the personal information you share with us during trip enquiries, bookings, or consultations."]}],["$","h2",null,{"className":"font-serif text-xl font-bold text-[#0b132b] pt-4","children":"1. Information Collection"}],["$","p",null,{"className":"text-xs sm:text-sm text-slate-600 leading-relaxed","children":"We collect personal information such as your name, phone number, email address, travel dates, starting point, and destination solely for the purpose of communicating with you, designing custom itineraries, and arranging private transportation services."}],["$","h2",null,{"className":"font-serif text-xl font-bold text-[#0b132b] pt-4","children":"2. Use of Information"}],["$","p",null,{"className":"text-xs sm:text-sm text-slate-600 leading-relaxed","children":"Your details are used strictly to provide quotations, confirm reservations, provide driver dispatch updates, and deliver travel assistance. We do not sell, rent, or trade your personal information to third parties."}],["$","h2",null,{"className":"font-serif text-xl font-bold text-[#0b132b] pt-4","children":"3. Contact & Updates"}],["$","p",null,{"className":"text-xs sm:text-sm text-slate-600 leading-relaxed","children":"If you have questions regarding this privacy policy or wish to update your details, please contact us directly through our website contact form or official WhatsApp support desk."}]]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Privacy Policy | Global Horizons Tours & Travels | Global Horizons Tours & Travels"}],["$","meta","1",{"name":"description","content":"20+ years of trusted experience in Chhatrapati Sambhajinagar (Aurangabad). Private transportation, Ajanta & Ellora cave tours, airport transfers, and customized Maharashtra travel packages."}],["$","meta","2",{"name":"keywords","content":"Aurangabad travel agency,Chhatrapati Sambhajinagar travel agency,Ajanta Ellora tour package,Ajanta Ellora taxi service,Aurangabad airport transfer,Shirdi taxi from Aurangabad,Maharashtra private tour operator,Foreign tourist travel assistance India"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"property":"og:title","content":"Global Horizons Tours & Travels | Aurangabad Taxi & Ajanta Ellora Tours"}],["$","meta","5",{"property":"og:description","content":"Reliable private transportation, Ajanta & Ellora cave tours, airport transfers, and customized travel itineraries backed by 20+ years of industry experience."}],["$","meta","6",{"property":"og:url","content":"https://globalhorizonstours.com"}],["$","meta","7",{"property":"og:site_name","content":"Global Horizons Tours & Travels"}],["$","meta","8",{"property":"og:locale","content":"en_IN"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],"$L9","$La","$Lb","$Lc"]}]}]}],"$Ld"]}],"isPartial":"$@e","staleTime":"$6","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$6","varyParams":"$11"}],"isUpgradeableISRFallback":false,"a":"$@12","rootVaryParams":null,"needsRuntimeRequest":"$@13"}
+14:I[27201,["/_next/static/chunks/2iga5jtw_qx1d.js"],"IconMark"]
+15:I[39756,["/_next/static/chunks/2iga5jtw_qx1d.js"],"default"]
+16:I[37457,["/_next/static/chunks/2iga5jtw_qx1d.js"],"default"]
+4:null
+9:["$","meta","11",{"name":"twitter:title","content":"Global Horizons Tours & Travels"}]
+a:["$","meta","12",{"name":"twitter:description","content":"20+ Years Experience in Private Transportation, Ajanta & Ellora Tours, and Maharashtra Travel."}]
+b:["$","link","13",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+c:["$","$L14","14",{}]
+d:["$","meta",null,{"name":"next-size-adjust","content":""}]
+f:["$","$1","c",{"children":[null,["$","$L15",null,{"parallelRouterKey":"children","template":["$","$L16",null,{}]}]]}]
+13:true
+6:300
+6:C
+12:0
+e:"$undefined"
+10:"$undefined"
+5:"$undefined"
