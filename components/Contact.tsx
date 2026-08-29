@@ -156,7 +156,7 @@ export default function Contact() {
             <div className="pt-8 lg:pl-10 lg:pt-0">
 
               {/* MAP */}
-              <div className="relative h-[400px] overflow-hidden rounded-[16px]">
+              <div className="relative h-100 overflow-hidden rounded-[16px]">
 
                 <iframe
                   title="Global Tours Location"

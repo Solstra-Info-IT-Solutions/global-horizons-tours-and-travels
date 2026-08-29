@@ -1020,7 +1020,7 @@ function Hero() {
                                     className: "mt-10 flex flex-col justify-center gap-5 sm:flex-row",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                            href: "#contact",
+                                            href: "/enquiry",
                                             className: "group flex h-[58px] min-w-[214px] items-center justify-center gap-2 bg-[#b9471e] px-7 font-serif text-sm font-bold tracking-[1px] text-white transition hover:bg-[#963714]",
                                             children: [
                                                 "PLAN YOUR TRIP",

@@ -63,7 +63,7 @@ export default function Hero() {
 
               {/* Plan Your Trip */}
               <a
-                href="#contact"
+                href="/enquiry"
                 className="group flex h-[58px] min-w-[214px] items-center justify-center gap-2 bg-[#b9471e] px-7 font-serif text-sm font-bold tracking-[1px] text-white transition hover:bg-[#963714]"
               >
                 PLAN YOUR TRIP
